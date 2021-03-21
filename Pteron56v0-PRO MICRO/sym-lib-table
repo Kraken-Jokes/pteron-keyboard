@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name promicro)(type Legacy)(uri C:/Users/amoor/Downloads/ProMicroKiCad-master/ProMicroKiCad-master/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/amoor/Downloads/kicad_lib_tmk-master/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+)
